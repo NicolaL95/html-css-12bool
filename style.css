@@ -1,0 +1,18 @@
+body{
+    background-color: #FFC0CB;
+}
+
+.main_size{
+    height: 208px;
+}
+.color{
+    background-color: #F07F80 ; 
+}
+
+.outside{
+    padding: 0.1rem!important;
+}
+
+.wth_bg{
+    background-color: white;
+}
